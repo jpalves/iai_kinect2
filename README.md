@@ -241,3 +241,4 @@ Here are some screenshots from our toolkit:
 ![point cloud](http://ai.uni-bremen.de/wiki/_media/software/kinect2_cloud.png)
 ![image viewer](http://ai.uni-bremen.de/wiki/_media/software/kinect2_viewer.png)
 
+# iai_kinect2
